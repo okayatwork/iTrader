@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" width="100" height="100" viewBox="0 0 100 100">
-    <title>Example Logo</title>
-    <desc>Example logo for testing BIMI</desc>
-    <g>
-      <rect width="100" height="100" fill="#0073e6"/>
-      <circle cx="50" cy="50" r="40" fill="#ffffff"/>
-      <text x="50" y="55" font-size="20" text-anchor="middle" fill="#0073e6">Test</text>
-    </g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" width="500" height="500" viewBox="0 0 500 500">
+    <title>iTrader Logo</title>
+    <desc>Logo for iTrader</desc>
+    <!-- Dein SVG-Inhalt hier -->
+    <!-- Zum Beispiel: -->
+    <rect width="500" height="500" fill="#0073e6"/>
+    <circle cx="250" cy="250" r="200" fill="#ffffff"/>
+    <text x="250" y="275" font-size="60" text-anchor="middle" fill="#0073e6">iTrader</text>
+  </svg>  
   
